@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Covid</string>
+    <string name="desc_hr">Heart Rate</string>
+    <string name="desc_spo2">Oxygen Saturation</string>
+    <string name="title1">Last Measured value : </string>
+    <string name="unit_hr">bpm</string>
+    <string name="unit_spo2">%</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+    <string name="connect_to_shealth">Connect to Samsung Health</string>
+
+    <string name="notice">Notice</string>
+    <string name="msg_perm_acquired">All permissions should be acquired</string>
+    <string name="msg_conn_not_available">Connection with Samsung Health is not available</string>
+    <string name="msg_req_install">Please install Samsung Health</string>
+    <string name="msg_req_upgrade">Please upgrade Samsung Health</string>
+    <string name="msg_req_enable">Please enable Samsung Health</string>
+    <string name="msg_req_agree">Please agree to Samsung Health policy</string>
+    <string name="msg_req_available">Please make Samsung Health available</string>
+    <string name="measure_spo2">Measure SPO2</string>
+    <string name="empty_data">--</string>
+    <string name="measure_hr">Measure HR</string>
+    <string name="covid_19_score">COVID-19 Score:</string>
+</resources>
